@@ -1,0 +1,24 @@
+{
+  "name": "hw-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /hw-11/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfat1989/hw-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfat1989/hw-11/issues"
+  },
+  "homepage": "https://github.com/Alfat1989/hw-11#readme",
+  "dependencies": {
+    "parcel-plugin-nuke-dist": "^1.0.1"
+  }
+}
